@@ -1,0 +1,1036 @@
+{
+  "id": "009",
+  "size": 10,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-009.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-30T01:46:56.299503Z"
+  },
+  "grid": [
+    "IDA#AVA#SV",
+    "DIPLOMITIF",
+    "APGAR#AAM#",
+    "#LAIAS#BIB",
+    "AORASIE#LY",
+    "KM#SICLAIS",
+    "HIA#ELANS#",
+    "#TAB#ANBAR",
+    "SIMILISAGE",
+    "VF#AYS#REA"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Mont de Crète, berceau de Zeus.",
+        "answer": "IDA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Kava.",
+        "answer": "AVA",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "À l’article, à l’entrée, au mot.",
+        "answer": "SV",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Étudiant d’une université",
+        "answer": "DIPLOMITIF",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Nom de famille.",
+        "answer": "APGAR",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Unité de mesure de capacité pour des liquides, autrefois usitée en Hollande et dans certaines régions de Belgique.",
+        "answer": "AAM",
+        "cells": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Deuxième personne du singulier du passé simple de laïer.",
+        "answer": "LAIAS",
+        "cells": [
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Biberon.",
+        "answer": "BIB",
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Invisibilité des dieux.",
+        "answer": "AORASIE",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Code utilisé pour l’immatriculation des bateaux navigants sur les eaux intérieures de la région de Lyon (Rhône-Saône).",
+        "answer": "LY",
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Gestion des connaissances.",
+        "answer": "KM",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Première personne du singulier de l’imparfait de l’indicatif de sicler.",
+        "answer": "SICLAIS",
+        "cells": [
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Troisième personne du singulier du passé simple du verbe hier.",
+        "answer": "HIA",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Pluriel de élan.",
+        "answer": "ELANS",
+        "cells": [
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Vignette attenant à un timbre situé en bord de feuille (ce terme est généralement utilisé pour parler des vignettes de bas de feuille des timbres israéliens).",
+        "answer": "TAB",
+        "cells": [
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "province de l’Ouest de l’Irak.",
+        "answer": "ANBAR",
+        "cells": [
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Action de similiser, de rendre un tissu semblable à de la soie.",
+        "answer": "SIMILISAGE",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Doublé dans la langue française.",
+        "answer": "VF",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Pluriel de ay.",
+        "answer": "AYS",
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Roue dotée d’une gorge constituant la partie mobile d'une poulie. Tous les corps de métier ayant besoin de soulever de lourdes charges utilisent des poulies à multiples réas pour la réalisation de palans. Chacun des réas tourne librement.",
+        "answer": "REA",
+        "cells": [
+          [
+            9,
+            7
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Mont de Crète, berceau de Zeus.",
+        "answer": "IDA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Étudiant d’une université",
+        "answer": "DIPLOMITIF",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Nom de famille.",
+        "answer": "APGAR",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Invisibilité des dieux.",
+        "answer": "AORASIE",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Votre Majesté.",
+        "answer": "VM",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Autorité israélienne des antiquités.",
+        "answer": "AIA",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Action de similiser, de rendre un tissu semblable à de la soie.",
+        "answer": "SIMILISAGE",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Doublé dans la langue française.",
+        "answer": "VF",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Deuxième personne du singulier du passé simple de laïer.",
+        "answer": "LAIAS",
+        "cells": [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            5,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Vignette attenant à un timbre situé en bord de feuille (ce terme est généralement utilisé pour parler des vignettes de bas de feuille des timbres israéliens).",
+        "answer": "TAB",
+        "cells": [
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Première personne du singulier de l’imparfait de l’indicatif de sicler.",
+        "answer": "SICLAIS",
+        "cells": [
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Pluriel de by.",
+        "answer": "BYS",
+        "cells": [
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "La force divine, une des parties de l’âme humaine.",
+        "answer": "AKH",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Pluriel de élan.",
+        "answer": "ELANS",
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "province de l’Ouest de l’Irak.",
+        "answer": "ANBAR",
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Unité de mesure de capacité pour des liquides, autrefois usitée en Hollande et dans certaines régions de Belgique.",
+        "answer": "AAM",
+        "cells": [
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Cépage originaire de l'Isère et donnant du raisin blanc. Il est inscrit à la liste des cépages autorisé mais n'est quasiment pas cultivé.",
+        "answer": "BIA",
+        "cells": [
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Roue dotée d’une gorge constituant la partie mobile d'une poulie. Tous les corps de métier ayant besoin de soulever de lourdes charges utilisent des poulies à multiples réas pour la réalisation de palans. Chacun des réas tourne librement.",
+        "answer": "REA",
+        "cells": [
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "À l’article, à l’entrée, au mot.",
+        "answer": "SV",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Code utilisé pour l’immatriculation des bateaux navigants sur les eaux intérieures de la région de Lyon (Rhône-Saône).",
+        "answer": "LY",
+        "cells": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ]
+        ]
+      }
+    ]
+  }
+}

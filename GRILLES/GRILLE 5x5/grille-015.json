@@ -1,0 +1,303 @@
+{
+  "id": "015",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-015.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:49:21.899214Z"
+  },
+  "grid": [
+    "GRANA",
+    "VEBAB",
+    "#MARA",
+    "SPREV",
+    "QS#LO"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Type de fromage italien.",
+        "answer": "GRANA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Sandwich imitant le kebab en remplaçant la viande par du seitan.",
+        "answer": "VEBAB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Rongeur de grande taille du genre Dolichotis vivant en Argentine dans la pampa, les steppes herbacées et les déserts broussailleux.",
+        "answer": "MARA",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Association française de préservation du patrimoine religieux catholique breton.",
+        "answer": "SPREV",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Québec Solidaire, parti politique provincial québécois de gauche.",
+        "answer": "QS",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Code du quartier d’immatriculation de Lorient.",
+        "answer": "LO",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Code du quartier d’immatriculation du Guilvinec.",
+        "answer": "GV",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Parents.",
+        "answer": "REMPS",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Langue de la famille des langues bantoïdes parlée au Cameroun.",
+        "answer": "ABAR",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Coquille du genre marginelle.",
+        "answer": "NAREL",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Baobab.",
+        "answer": "ABAVO",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Sûreté du Québec, police du Québec.",
+        "answer": "SQ",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      }
+    ]
+  }
+}

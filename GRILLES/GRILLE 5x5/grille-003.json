@@ -1,0 +1,303 @@
+{
+  "id": "003",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-003.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:42:19.577483Z"
+  },
+  "grid": [
+    "SHABA",
+    "FACEB",
+    "#CALA",
+    "EHBEN",
+    "JR#WE"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Ancien nom de la province du Katanga, au Congo-Kinshasa, entre 1971 et 1997.",
+        "answer": "SHABA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Chanson qui n’est pas assez bonne pour être lancée en single.",
+        "answer": "FACEB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Prendre en compte ; prêter attention à.",
+        "answer": "CALA",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Déformation orale courante d’eh bien.",
+        "answer": "EHBEN",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Distingue le fils du père lorsque ceux-ci ont le même prénom et le même nom de famille (est parfois précédé d'une virgule ou suivi d'un point), selon un usage importé des pays anglo-saxons.",
+        "answer": "JR",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Ancienne commune du département des Ardennes, intégrée à la commune de Carignan en 1792 ; et aujourd'hui hameau de cette ville.",
+        "answer": "WE",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "De science-fiction, relatif à la science-fiction.",
+        "answer": "SF",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Cinquante-neuvième sourate du Coran.",
+        "answer": "HACHR",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "« Tous les flics sont des salauds », slogan anti-police.",
+        "answer": "ACAB",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Peut-être.",
+        "answer": "BELEW",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Imbécile, idiot.",
+        "answer": "ABANE",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Nom de la lettre additionnelle de l’alphabet latin Ʒ (minuscule : ʒ).",
+        "answer": "EJ",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      }
+    ]
+  }
+}

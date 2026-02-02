@@ -1,0 +1,303 @@
+{
+  "id": "009",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-009.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:46:26.004126Z"
+  },
+  "grid": [
+    "POPAA",
+    "ADLIB",
+    "NIANA",
+    "KENAV",
+    "ALICE"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Nom donné par les Tahitiens aux étrangers blancs, aux blancs nés sur l'île aussi.",
+        "answer": "POPAA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Au gré de l’exécutant.",
+        "answer": "ADLIB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Hameau de Fontainemore.",
+        "answer": "NIANA",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Aimer.",
+        "answer": "KENAV",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Exclamation de surprise.",
+        "answer": "ALICE",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "En Inde, grand éventail suspendu au plafond par un côté, et que l'on fait se baisser et se lever au moyen d'un système de poulies et de cordages.",
+        "answer": "PANKA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Affluent du río Tinto.",
+        "answer": "ODIEL",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Préfixe signifiant « plan, aplati ».",
+        "answer": "PLANI",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Village et ancienne commune française, située dans le département des Alpes-de-Haute-Provence intégrée dans la commune de La Robine-sur-Galabre.",
+        "answer": "AINAC",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Bisaïeul ou bisaïeule.",
+        "answer": "ABAVE",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ]
+  }
+}

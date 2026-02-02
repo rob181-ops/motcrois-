@@ -1,0 +1,303 @@
+{
+  "id": "016",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-016.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:50:36.222585Z"
+  },
+  "grid": [
+    "GAIDA",
+    "SCRUB",
+    "#AVRE",
+    "PREAO",
+    "JI#GU"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Cornemuse des Balkans.",
+        "answer": "GAIDA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Végétation de broussailles.",
+        "answer": "SCRUB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Rivière de Normandie, affluent de l’Eure.",
+        "answer": "AVRE",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Présentation assistée par ordinateur.",
+        "answer": "PREAO",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Lettre latine J, j.",
+        "answer": "JI",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Grand uniforme de l'École polytechnique.",
+        "answer": "GU",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Gâtinais.",
+        "answer": "GS",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Taxon d’arachnides, aptères, petits, minuscules ou microscopiques au corps compact (prosome et opisthosome fusionnés), libres ou parasites.",
+        "answer": "ACARI",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Infrastructure de recharge de véhicule électrique.",
+        "answer": "IRVE",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Couvre-chef qui servait à maintenir la forme des ondulations, des tresses ou des dreadlocks, avant de devenir un accessoire de mode.",
+        "answer": "DURAG",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Affluent de la Durance.",
+        "answer": "ABEOU",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Pièce jointe.",
+        "answer": "PJ",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      }
+    ]
+  }
+}

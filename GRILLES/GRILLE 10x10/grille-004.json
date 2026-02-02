@@ -1,0 +1,1036 @@
+{
+  "id": "004",
+  "size": 10,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-004.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-30T01:29:10.601095Z"
+  },
+  "grid": [
+    "EDA#IMA#IR",
+    "SEBASTOPOL",
+    "ECALA#FAD#",
+    "#ADAMA#DUA",
+    "ALESURE#RL",
+    "QI#REGULEE",
+    "PSC#LOSAR#",
+    "#SEB#VENON",
+    "GABONISENT",
+    "YS#AHE#NTM"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Nom de famille.",
+        "answer": "EDA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Groupement d'intérêt économique spécialisé dans l’assistance et dont le siège est à Niort.",
+        "answer": "IMA",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Variante de in- devant un mot commençant par r.",
+        "answer": "IR",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Ville située dans le sud-ouest de la péninsule de Crimée.",
+        "answer": "SEBASTOPOL",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Troisième personne du singulier du passé simple du verbe écaler.",
+        "answer": "ECALA",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Nom de famille.",
+        "answer": "FAD",
+        "cells": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Prénom masculin.",
+        "answer": "ADAMA",
+        "cells": [
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Prénom féminin.",
+        "answer": "DUA",
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Métal détaché par l’alésoir.",
+        "answer": "ALESURE",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Abréviation de radio logicielle.",
+        "answer": "RL",
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Abréviation de quotient intellectuel.",
+        "answer": "QI",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Participe passé féminin singulier de réguler.",
+        "answer": "REGULEE",
+        "cells": [
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Prévention et secours civiques, unité d’enseignement de secourisme français destinée au grand public.",
+        "answer": "PSC",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Fête du nouvel an tibétain.",
+        "answer": "LOSAR",
+        "cells": [
+          [
+            6,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Diminutif de Sébastien.",
+        "answer": "SEB",
+        "cells": [
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Commune française, située dans le département de l’Eure.",
+        "answer": "VENON",
+        "cells": [
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Troisième personne du pluriel de l’indicatif présent de gaboniser.",
+        "answer": "GABONISENT",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Ville légendaire de Bretagne.",
+        "answer": "YS",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Atoll de l'archipel de Tuamotu.",
+        "answer": "AHE",
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Nique ta mère.",
+        "answer": "NTM",
+        "cells": [
+          [
+            9,
+            7
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Est-sud-est.",
+        "answer": "ESE",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Deuxième personne du singulier du passé simple de décalisser.",
+        "answer": "DECALISSAS",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Première personne du singulier du présent de l’indicatif de abader.",
+        "answer": "ABADE",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Neuvième livre de l’Ancien Testament. → voir Samuel",
+        "answer": "ISAMUEL",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Mont.",
+        "answer": "MT",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Fédération regroupant les colonies françaises d’Afrique occidentale entre 1895 et 1958.",
+        "answer": "AOF",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Troisième personne du pluriel du futur du verbe iodurer.",
+        "answer": "IODURERONT",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Abréviation de radio logicielle.",
+        "answer": "RL",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Cent-troisième sourate du Coran.",
+        "answer": "ALASR",
+        "cells": [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            5,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Serviette hygiénique.",
+        "answer": "PAD",
+        "cells": [
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Canton de Suisse.",
+        "answer": "ARGOVIE",
+        "cells": [
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Bière blonde anglaise légère, fabriquée avec du malt peu torréfié.",
+        "answer": "ALE",
+        "cells": [
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Abréviation de aquaporine.",
+        "answer": "AQP",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Pluriel de -euse.",
+        "answer": "EUSES",
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Nom de famille néerlandais.",
+        "answer": "LANEN",
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "« Certificat d’études de base ».",
+        "answer": "CEB",
+        "cells": [
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Genre de serpents qui se trouvent principalement en Amérique du Sud et qui sont les plus forts et les plus grands que l’on connaisse.",
+        "answer": "BOA",
+        "cells": [
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Nique ta mère.",
+        "answer": "NTM",
+        "cells": [
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Commune française, située dans le département de la Haute-Saône.",
+        "answer": "GY",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Abréviation de « noble homme » qualifiant parfois les noms de personnes dans les actes de l'Ancien Régime.",
+        "answer": "NH",
+        "cells": [
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ]
+        ]
+      }
+    ]
+  }
+}

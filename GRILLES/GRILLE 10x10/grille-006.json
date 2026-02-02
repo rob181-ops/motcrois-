@@ -1,0 +1,1044 @@
+{
+  "id": "006",
+  "size": 10,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-006.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-30T01:31:01.161614Z"
+  },
+  "grid": [
+    "PFN#CYNDIE",
+    "GREYERIONS",
+    "#EGAL#BUSC",
+    "AQIQAS#MOA",
+    "LU#WIEK#MR",
+    "DER#STURNO",
+    "ANEL#AVOI#",
+    "#TIAC#ALAA",
+    "PEDICULAIS",
+    "NR#CIVE#TK"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Ancien parti politique d’extrême-droite français entre 1974 et 1998.",
+        "answer": "PFN",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Prénom féminin.",
+        "answer": "CYNDIE",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Première personne du pluriel du conditionnel présent de greyer.",
+        "answer": "GREYERIONS",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Qui est semblable, soit en nature, soit en quantité, soit en qualité.",
+        "answer": "EGAL",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Lame d’acier, plate, étroite et arrondie aux deux bouts (anciennement on utilisait des fanons de baleine), qui servait à maintenir le devant d’un corset. Il se glisse dans la busquière.",
+        "answer": "BUSC",
+        "cells": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Pluriel de aqiqa.",
+        "answer": "AQIQAS",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Une des espèces d'oiseaux terrestres (ratites) géants (jusqu'à trois mètres de haut), incapables de voler, originaires de Nouvelle-Zélande, éteintes après l'arrivée des ancêtres des Maori.",
+        "answer": "MOA",
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Commune de la province d’Alexandrie dans le Piémont en Italie.",
+        "answer": "LU",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Commune d’Allemagne, située dans le Mecklembourg-Poméranie-Occidentale.",
+        "answer": "WIEK",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Abréviation de mars.",
+        "answer": "MR",
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Dernier, dernière ou dernière fois.",
+        "answer": "DER",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Commune d’Italie de la province d’Avellino dans la région de Campanie.",
+        "answer": "STURNO",
+        "cells": [
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Anneau qui maintient les deux branches d’une tenaille de forgeron.",
+        "answer": "ANEL",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Conduite.",
+        "answer": "AVOI",
+        "cells": [
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Toxi-infection en restauration collective.",
+        "answer": "TIAC",
+        "cells": [
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            7,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Prénom féminin.",
+        "answer": "ALAA",
+        "cells": [
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Première personne du singulier de l’imparfait de l’indicatif de pédiculer.",
+        "answer": "PEDICULAIS",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Abréviation de nationalisme révolutionnaire, de national-révolutionnaire.",
+        "answer": "NR",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Ciboule, plante bulbeuse de la famille des Liliacées, dont les feuilles sont utilisées comme condiment.",
+        "answer": "CIVE",
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Télékinésie.",
+        "answer": "TK",
+        "cells": [
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Abréviation de peptidoglycane.",
+        "answer": "PG",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Aller fréquemment dans un lieu.",
+        "answer": "FREQUENTER",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Ciboule japonaise.",
+        "answer": "NEGI",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Première personne du singulier de l’indicatif imparfait du verbe celer.",
+        "answer": "CELAIS",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Nom de la rune ᚣ.",
+        "answer": "YR",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Rien.",
+        "answer": "NIB",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Palmier d’Afrique dont le tronc se divise en Y.",
+        "answer": "DOUM",
+        "cells": [
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Troisième personne du singulier de l’indicatif imparfait de insomnier.",
+        "answer": "INSOMNIAIT",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Commune française, située dans le département des Pyrénées-Orientales.",
+        "answer": "ESCARO",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Lettre additionnelle de l’alphabet tifinagh, ⵇⵯ.",
+        "answer": "YAQW",
+        "cells": [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Prénom féminin.",
+        "answer": "ALDA",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Poil microscopique qui offre une adhérence très élevée avec divers supports, aidant ainsi les animaux à se fixer ou à se déplacer.",
+        "answer": "SETA",
+        "cells": [
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Langue bantoue parlée en Angola.",
+        "answer": "KUVALE",
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Nom de famille écossais.",
+        "answer": "REID",
+        "cells": [
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Troisième personne du singulier du passé simple du verbe rôler.",
+        "answer": "ROLA",
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Qualifie le caractère des personnes ou des choses ne faisant pas partie d’une institution religieuse.",
+        "answer": "LAIC",
+        "cells": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Copie carbone invisible.",
+        "answer": "CCI",
+        "cells": [
+          [
+            7,
+            4
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Nom de famille.",
+        "answer": "ASK",
+        "cells": [
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Synonyme de passage à niveau.",
+        "answer": "PN",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Ultraviolet.",
+        "answer": "UV",
+        "cells": [
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      }
+    ]
+  }
+}

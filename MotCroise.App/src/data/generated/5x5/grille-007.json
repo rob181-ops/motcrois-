@@ -1,0 +1,311 @@
+{
+  "id": "007",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-007.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:45:21.198153Z"
+  },
+  "grid": [
+    "BARKA",
+    "ALJUB",
+    "ZI#SD",
+    "ABOMA",
+    "CIVIL"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "tiré de l'article La famine de 1932-1933 en Ukraine dans le roman Le Prince jaune de \"Vasyľ Barka\"",
+        "answer": "BARKA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Citerne souterraine pour récupérer et stocker les eaux pluviales.",
+        "answer": "ALJUB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Zone industrielle.",
+        "answer": "ZI",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Sauvetage-déblaiement.",
+        "answer": "SD",
+        "cells": [
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Boa géant qui vit aux Antilles, en Guyane, en Indes",
+        "answer": "ABOMA",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Citoyen ; relatif aux citoyens.",
+        "answer": "CIVIL",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Coton filé très fin de Syrie ou de Palestine.",
+        "answer": "BAZAC",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Présence d’une personne dans un lieu autre que celui où a été commis le crime ou le délit dont on l’accuse.",
+        "answer": "ALIBI",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Type de connecteur réseau, souvent utilisé pour terminer les câbles de type paire torsadée, et qui comporte huit broches de connexions électriques.",
+        "answer": "RJ",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Marque de thé (sous la forme Kusmi Tea), fondée en 1867 à Saint-Pétersbourg et déposée depuis 2003 par la société parisienne Orientis Gourmet.",
+        "answer": "KUSMI",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Missionnaire musulman soufi, souvent assimilé à tort au derviche.",
+        "answer": "ABDAL",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Ovide (Publius Ovidius Naso), poète romain des Iᵉʳ siècles avant et après Jésus-Christ.",
+        "answer": "OV",
+        "cells": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      }
+    ]
+  }
+}

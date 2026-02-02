@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QuestPDF" Version="2025.12.3" />
+    <PackageReference Include="WeCantSpell.Hunspell" Version="7.0.1" />
+    <PackageReference Include="WiktionaryNET" Version="0.1.1" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="data\\mini-dictionary.txt" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="data\\hunspell\\fr_FR.aff" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="data\\hunspell\\fr_FR.dic" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1044 @@
+{
+  "id": "002",
+  "size": 10,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-002.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-30T01:23:55.381899Z"
+  },
+  "grid": [
+    "PDA#AJOURA",
+    "DECARNAVAL",
+    "#CCAM#SEIL",
+    "MAASEN#ACU",
+    "EP#TRAM#HM",
+    "RIA#ABOLEE",
+    "UTMB#ALOR#",
+    "#AOUH#AMOA",
+    "OISELERONS",
+    "XS#BAYO#TV"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Assistant numérique personnel.",
+        "answer": "PDA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Troisième personne du singulier du passé simple du verbe ajourer.",
+        "answer": "AJOURA",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Faux, caricatural.",
+        "answer": "DECARNAVAL",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "En France, codification des actes médicaux établie par l’assurance maladie et déterminant leur remboursement.",
+        "answer": "CCAM",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Île située dans l’archipel des Hébrides.",
+        "answer": "SEIL",
+        "cells": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Commune d’Allemagne, située dans la Basse-Saxe.",
+        "answer": "MAASEN",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Adaptateur de charge utile.",
+        "answer": "ACU",
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Abréviation d'enregistreur phonique.",
+        "answer": "EP",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Tramway.",
+        "answer": "TRAM",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Variante de hem et hmm.",
+        "answer": "HM",
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Basse vallée d’un fleuve envahie par la mer.",
+        "answer": "RIA",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Participe passé féminin singulier de aboler.",
+        "answer": "ABOLEE",
+        "cells": [
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Évènement sportif composé de sept trails dont quatre en ultra-endurance en pleine nature et de très longue durée, qui traverse trois pays, trois grandes régions alpines et dix-huit communes françaises, italiennes et suisses du pays du Mont-Blanc.",
+        "answer": "UTMB",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "La plus orientale de l’archipel des Petites îles de la Sonde, en Indonésie.",
+        "answer": "ALOR",
+        "cells": [
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Marque d'adresse.",
+        "answer": "AOUH",
+        "cells": [
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            7,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Assistant à maîtrise d'ouvrage.",
+        "answer": "AMOA",
+        "cells": [
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Première personne du pluriel du futur du verbe oiseler.",
+        "answer": "OISELERONS",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Qualifie un vêtement de petite taille, inférieur au S.",
+        "answer": "XS",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Nom de famille.",
+        "answer": "BAYO",
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Télévision ; téléviseur.",
+        "answer": "TV",
+        "cells": [
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Abréviation utilisée par des cachets qu’on peut trouver sur certains courriers anciens envoyés de France vers un autre pays, et signifiant que le port a été payé jusqu’à la destination finale du courrier.",
+        "answer": "PD",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Première personne du singulier de l’indicatif imparfait de décapiter.",
+        "answer": "DECAPITAIS",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "En France, association communale de chasse agréée.",
+        "answer": "ACCA",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Troisième personne du singulier du futur du verbe armer.",
+        "answer": "ARMERA",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Abréviation de juin.",
+        "answer": "JN",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Organisation paramilitaire séditieuse qui voulut accaparer les services étatiques dans les départements français de l’Algérie.",
+        "answer": "OAS",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Royaume coutumier français, correspondant à l’île de Wallis (îles de Wallis-et-Futuna).",
+        "answer": "UVEA",
+        "cells": [
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Troisième personne du pluriel du futur du verbe raicher.",
+        "answer": "RAICHERONT",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Petit morceau de bois qui sert à allumer une cheminée, un poêle, etc.",
+        "answer": "ALLUME",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Commune française, située dans le département des Pyrénées-Atlantiques.",
+        "answer": "AAST",
+        "cells": [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Commune française, située dans le département de l’Oise.",
+        "answer": "MERU",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Langue nilo-saharienne parlée au Tchad.",
+        "answer": "NABA",
+        "cells": [
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Nom de famille",
+        "answer": "MOLARO",
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Ville canadienne du Québec située dans la MRC d’Abitibi.",
+        "answer": "AMOS",
+        "cells": [
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Appareil photo permettant de faire de la lomographie.",
+        "answer": "LOMO",
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Nom de famille.",
+        "answer": "BUEB",
+        "cells": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Antigène des leucocytes humains.",
+        "answer": "HLA",
+        "cells": [
+          [
+            7,
+            4
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Auxiliaire spécialisé·e vétérinaire.",
+        "answer": "ASV",
+        "cells": [
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Variante de oxy-.",
+        "answer": "OX",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Variante de -y, suffixe toponymique relativement propre à l’est de la France.",
+        "answer": "EY",
+        "cells": [
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1044 @@
+{
+  "id": "001",
+  "size": 10,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-001.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-30T01:23:01.249985Z"
+  },
+  "grid": [
+    "IAA#AMOCHA",
+    "DEBORDURAT",
+    "#MULE#HINT",
+    "AUBERE#BNI",
+    "CL#GAAS#EF",
+    "AAC#ISOETE",
+    "ITAR#OUZO#",
+    "#EIEN#FINA",
+    "MUCHERIONS",
+    "FR#EFFE#EL"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Industrie agro-alimentaire.",
+        "answer": "IAA",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Troisième personne du singulier du passé simple du verbe amocher.",
+        "answer": "AMOCHA",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Troisième personne du singulier de l’imparfait du subjonctif de débordurer.",
+        "answer": "DEBORDURAT",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Femelle du mulet, équidé issu du croisement d’un âne et d’une jument et le plus souvent stérile.",
+        "answer": "MULE",
+        "cells": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Mot réservé additionné au SQL standard par un SGBD pour optimiser les requêtes.",
+        "answer": "HINT",
+        "cells": [
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Dont le poil est couleur de fleur de pêcher, entre le blanc et l'alezan, en parlant d’un cheval.",
+        "answer": "AUBERE",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "En longe-côte, niveau réglementaire de hauteur de l’eau par rapport au corps.",
+        "answer": "BNI",
+        "cells": [
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Abréviation du nom du journal Charente Libre (nom propre).",
+        "answer": "CL",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Commune française, située dans le département des Landes.",
+        "answer": "GAAS",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            4,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Abréviation de État français.",
+        "answer": "EF",
+        "cells": [
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Abréviation d'anglo-arabe de complément (cheval).",
+        "answer": "AAC",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Genre de plante cryptogame vasculaire souvent aquatique composée d'un court rhizome ressemblant à un bulbe, bilobé ou trilobé, d'où prennent naissance les racines ramifiées par dichotomie et les frondes linéaires et élargies à leur base, sans fleurs.",
+        "answer": "ISOETE",
+        "cells": [
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Nom de l’Agence TASS de 1992 à 2014.",
+        "answer": "ITAR",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Liqueur d’origine grecque parfumée à l’anis.",
+        "answer": "OUZO",
+        "cells": [
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Indique une idée d’origine et sert à former des adjectifs, des noms d’habitant et des noms de langues dérivés d’un nom propre géographique (ville, région, pays, planète).",
+        "answer": "EIEN",
+        "cells": [
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            7,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Médicament finastéride.",
+        "answer": "FINA",
+        "cells": [
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Première personne du pluriel du conditionnel présent du verbe mucher.",
+        "answer": "MUCHERIONS",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Abréviation de franc (monnaie)",
+        "answer": "FR",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Lettre latine F, f.",
+        "answer": "EFFE",
+        "cells": [
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Pronom de la troisième personne du singulier neutre. Désigne une personne dont le genre est variable (genderqueer), inconnu ou androgyne. Il est utilisé dans le cadre d’un langage non-sexiste.",
+        "answer": "EL",
+        "cells": [
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Abréviation de innovation par la demande.",
+        "answer": "ID",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Ancienne orthographe de émulateur.",
+        "answer": "AEMULATEUR",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Genre de flûte en usage dans l'antiquité au Proche-Orient.",
+        "answer": "ABUB",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Première personne du singulier du futur du verbe arer.",
+        "answer": "ARERAI",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Abréviation pour milliard.",
+        "answer": "MD",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Cri de douleur. → voir ouille",
+        "answer": "OUH",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Cage grillagée de forme parallélépipédique, destinée au stockage et au séchage à l’air libre des épis de maïs.",
+        "answer": "CRIB",
+        "cells": [
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Participe passé masculin singulier du verbe hannetonner.",
+        "answer": "HANNETONNE",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Première personne du singulier de l’indicatif présent du verbe attifer.",
+        "answer": "ATTIFE",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Prénom masculin slave.",
+        "answer": "OLEG",
+        "cells": [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Nom vernaculaire de Euterpe edulis palmiers du genre Euterpe à feuilles pennées d’Amérique du Sud produisant des drupes sombres et qui produit aussi le cœur de palmier sauvage.",
+        "answer": "ACAI",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Bureau européen d'appui en matière d'asile.",
+        "answer": "EASO",
+        "cells": [
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            6,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Féminin singulier de soufi.",
+        "answer": "SOUFIE",
+        "cells": [
+          [
+            4,
+            6
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            9,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Esquif, canot d'une galère.",
+        "answer": "CAIC",
+        "cells": [
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Prénom masculin.",
+        "answer": "EZIO",
+        "cells": [
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Commune d’Allemagne, située dans la Rhénanie-Palatinat.",
+        "answer": "REHE",
+        "cells": [
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Grand navire à voile, à l’époque du Moyen Âge.",
+        "answer": "NEF",
+        "cells": [
+          [
+            7,
+            4
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Association syndicale libre.",
+        "answer": "ASL",
+        "cells": [
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Sigle de modulation de fréquence.",
+        "answer": "MF",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Sigle de la République française.",
+        "answer": "RF",
+        "cells": [
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ]
+        ]
+      }
+    ]
+  }
+}

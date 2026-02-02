@@ -1,0 +1,36 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build outputs / caches
+bin/
+obj/
+**/bin/
+**/obj/
+cache/
+logs/
+fr-extract.jsonl
+*.sqlite
+
+# PDFs / large exports (keep JSON grids instead)
+*.pdf
+GRILLES/**/*.log
+
+# Node / Vite
+MotCroise.App/node_modules/
+MotCroise.App/dist/
+MotCroise.App/.vite/
+MotCroise.App/.env
+
+# Capacitor / Android generated + build outputs
+MotCroise.App/android/.gradle/
+MotCroise.App/android/build/
+MotCroise.App/android/app/build/
+MotCroise.App/android/app/src/main/assets/public/
+MotCroise.App/android/local.properties
+
+# Gradle / Android Studio
+**/.gradle/
+**/*.iml

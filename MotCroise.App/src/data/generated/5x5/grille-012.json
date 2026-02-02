@@ -1,0 +1,303 @@
+{
+  "id": "012",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-012.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:47:47.856143Z"
+  },
+  "grid": [
+    "HP#MG",
+    "IRCAM",
+    "JOLI#",
+    "ABUNG",
+    "BABEL"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Hôpital psychiatrique.",
+        "answer": "HP",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Mycoplasma genitalium, mycoplasme endoparasitaire des cellules épithéliales du tractus urogénital humain, agent infectieux pathogène pour l'être humain, responsable d’urétrites et d'autres infections sexuellement transmissibles, éventuellement en association avec un autre mycoplasme.",
+        "answer": "MG",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Centre de recherche et de création musicales, lié au Centre Pompidou, créé par Pierre Boulez en 1970.",
+        "answer": "IRCAM",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Qui a de la grâce, de l’agrément.",
+        "answer": "JOLI",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Langue de la famille malayo-polynésienne parlée sur l’île de Sumatra en Indonésie.",
+        "answer": "ABUNG",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Village du Pays de Galles situé dans l’autorité unitaire de Carmarthenshire.",
+        "answer": "BABEL",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Vêtement que les femmes musulmanes portent, qui cache selon les diverses traditions nationales tout ou partie de leur tête, notamment les cheveux, leur cou, et parfois estompe les formes de leur corps.",
+        "answer": "HIJAB",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Diminutif pour désigner une mesure de probabilité.",
+        "answer": "PROBA",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Pays, ancienne province et comté de France, créé au IXᵉ siècle, bordé par la Basse-Normandie au nord, le Centre de la France à l’est, le reste du Pays de la Loire (dont il fait partie) au sud-ouest, et la Bretagne à l’ouest.",
+        "answer": "MAINE",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Client d’un club de vacances.",
+        "answer": "GM",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Association groupant des membres ayant des activités collectives, des intérêts communs.",
+        "answer": "CLUB",
+        "cells": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Langage de programmation associé au SGBD Informix.",
+        "answer": "GL",
+        "cells": [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ]
+  }
+}

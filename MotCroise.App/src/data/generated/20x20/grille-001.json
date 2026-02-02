@@ -1,0 +1,3634 @@
+{
+  "id": "001",
+  "size": 20,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T11:06:10.980389Z"
+  },
+  "grid": [
+    "ARRIEREPETITESNIECES",
+    "SYMPATHICOMIMETIQUE#",
+    "BROUILLARDEUX#PEAGER",
+    "SOUSFINANCEMENT#NAGY",
+    "TRIBAL#HIMATION#CEF#",
+    "REPORTERSCAMERAMANS#",
+    "BOSSU#SEANCE#EMMA#MX",
+    "NONCONCILIATION#COSO",
+    "EUROPEOCENTRISTE#NID",
+    "ASTRONOMIQUE#KARL#UC",
+    "CARDIOLOGIQUE#HALAL#",
+    "PRECAUTIONNEUSEMENT#",
+    "CNY#BEE#CHASLES#FEU#",
+    "PUERILISME#ARCACHON#",
+    "PROVENIR#MEL#GRIMER#",
+    "SBOS#NUTON#PUINE#HD#",
+    "CEREBROVASCULAIRE#LI",
+    "IBM#MOTACILLIDE#FEVO",
+    "ARC#CHOH#TAUZIN#DOJO",
+    "FUNERARIUM#CUCUL#PV#"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Pluriel de arrière-petite-nièce.",
+        "answer": "ARRIEREPETITESNIECES",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            0,
+            6
+          ],
+          [
+            0,
+            7
+          ],
+          [
+            0,
+            8
+          ],
+          [
+            0,
+            9
+          ],
+          [
+            0,
+            10
+          ],
+          [
+            0,
+            11
+          ],
+          [
+            0,
+            12
+          ],
+          [
+            0,
+            13
+          ],
+          [
+            0,
+            14
+          ],
+          [
+            0,
+            15
+          ],
+          [
+            0,
+            16
+          ],
+          [
+            0,
+            17
+          ],
+          [
+            0,
+            18
+          ],
+          [
+            0,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Qui mime les hormones du système nerveux sympathique.",
+        "answer": "SYMPATHICOMIMETIQUE",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            1,
+            10
+          ],
+          [
+            1,
+            11
+          ],
+          [
+            1,
+            12
+          ],
+          [
+            1,
+            13
+          ],
+          [
+            1,
+            14
+          ],
+          [
+            1,
+            15
+          ],
+          [
+            1,
+            16
+          ],
+          [
+            1,
+            17
+          ],
+          [
+            1,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Qualifie un temps de brouillard.",
+        "answer": "BROUILLARDEUX",
+        "cells": [
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            2,
+            10
+          ],
+          [
+            2,
+            11
+          ],
+          [
+            2,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Personne qui reçoit le péage.",
+        "answer": "PEAGER",
+        "cells": [
+          [
+            2,
+            14
+          ],
+          [
+            2,
+            15
+          ],
+          [
+            2,
+            16
+          ],
+          [
+            2,
+            17
+          ],
+          [
+            2,
+            18
+          ],
+          [
+            2,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Definition indisponible",
+        "answer": "SOUSFINANCEMENT",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            3,
+            6
+          ],
+          [
+            3,
+            7
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            3,
+            10
+          ],
+          [
+            3,
+            11
+          ],
+          [
+            3,
+            12
+          ],
+          [
+            3,
+            13
+          ],
+          [
+            3,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Definition indisponible",
+        "answer": "NAGY",
+        "cells": [
+          [
+            3,
+            16
+          ],
+          [
+            3,
+            17
+          ],
+          [
+            3,
+            18
+          ],
+          [
+            3,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Qui vit en tribu.",
+        "answer": "TRIBAL",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            4,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Vêtement de la Grèce antique fait d’une étoffe rectangulaire de lin ou de laine plus légère que la toge. Il se portait tant par les femmes que les hommes, généralement par-dessus un chiton.",
+        "answer": "HIMATION",
+        "cells": [
+          [
+            4,
+            7
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            4,
+            10
+          ],
+          [
+            4,
+            11
+          ],
+          [
+            4,
+            12
+          ],
+          [
+            4,
+            13
+          ],
+          [
+            4,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Definition indisponible",
+        "answer": "CEF",
+        "cells": [
+          [
+            4,
+            16
+          ],
+          [
+            4,
+            17
+          ],
+          [
+            4,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Definition indisponible",
+        "answer": "REPORTERSCAMERAMANS",
+        "cells": [
+          [
+            5,
+            0
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            5,
+            5
+          ],
+          [
+            5,
+            6
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            5,
+            9
+          ],
+          [
+            5,
+            10
+          ],
+          [
+            5,
+            11
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            5,
+            13
+          ],
+          [
+            5,
+            14
+          ],
+          [
+            5,
+            15
+          ],
+          [
+            5,
+            16
+          ],
+          [
+            5,
+            17
+          ],
+          [
+            5,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Qui a une ou plusieurs bosses au dos ou à la poitrine, par un vice de conformation.",
+        "answer": "BOSSU",
+        "cells": [
+          [
+            6,
+            0
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            6,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Droit de prendre place dans une compagnie.",
+        "answer": "SEANCE",
+        "cells": [
+          [
+            6,
+            6
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            6,
+            9
+          ],
+          [
+            6,
+            10
+          ],
+          [
+            6,
+            11
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Prénom féminin français.",
+        "answer": "EMMA",
+        "cells": [
+          [
+            6,
+            13
+          ],
+          [
+            6,
+            14
+          ],
+          [
+            6,
+            15
+          ],
+          [
+            6,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Code du quartier d’immatriculation de Morlaix.",
+        "answer": "MX",
+        "cells": [
+          [
+            6,
+            18
+          ],
+          [
+            6,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Défaut de conciliation.",
+        "answer": "NONCONCILIATION",
+        "cells": [
+          [
+            7,
+            0
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            7,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            7,
+            9
+          ],
+          [
+            7,
+            10
+          ],
+          [
+            7,
+            11
+          ],
+          [
+            7,
+            12
+          ],
+          [
+            7,
+            13
+          ],
+          [
+            7,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Definition indisponible",
+        "answer": "COSO",
+        "cells": [
+          [
+            7,
+            16
+          ],
+          [
+            7,
+            17
+          ],
+          [
+            7,
+            18
+          ],
+          [
+            7,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Definition indisponible",
+        "answer": "EUROPEOCENTRISTE",
+        "cells": [
+          [
+            8,
+            0
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            11
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            8,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Abri en forme de petite corbeille que les oiseaux construisent pour y déposer leurs œufs et y élever leurs petits.",
+        "answer": "NID",
+        "cells": [
+          [
+            8,
+            17
+          ],
+          [
+            8,
+            18
+          ],
+          [
+            8,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Qui a rapport à l’astronomie.",
+        "answer": "ASTRONOMIQUE",
+        "cells": [
+          [
+            9,
+            0
+          ],
+          [
+            9,
+            1
+          ],
+          [
+            9,
+            2
+          ],
+          [
+            9,
+            3
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            9,
+            6
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            9,
+            9
+          ],
+          [
+            9,
+            10
+          ],
+          [
+            9,
+            11
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Commune d’Allemagne, située dans la Rhénanie-Palatinat.",
+        "answer": "KARL",
+        "cells": [
+          [
+            9,
+            13
+          ],
+          [
+            9,
+            14
+          ],
+          [
+            9,
+            15
+          ],
+          [
+            9,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "21",
+        "number": 21,
+        "clue": "Unité centrale.",
+        "answer": "UC",
+        "cells": [
+          [
+            9,
+            18
+          ],
+          [
+            9,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "22",
+        "number": 22,
+        "clue": "Relatif à ou en rapport avec le cœur.",
+        "answer": "CARDIOLOGIQUE",
+        "cells": [
+          [
+            10,
+            0
+          ],
+          [
+            10,
+            1
+          ],
+          [
+            10,
+            2
+          ],
+          [
+            10,
+            3
+          ],
+          [
+            10,
+            4
+          ],
+          [
+            10,
+            5
+          ],
+          [
+            10,
+            6
+          ],
+          [
+            10,
+            7
+          ],
+          [
+            10,
+            8
+          ],
+          [
+            10,
+            9
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            10,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "23",
+        "number": 23,
+        "clue": "L'ensemble des produits alimentaires halals.",
+        "answer": "HALAL",
+        "cells": [
+          [
+            10,
+            14
+          ],
+          [
+            10,
+            15
+          ],
+          [
+            10,
+            16
+          ],
+          [
+            10,
+            17
+          ],
+          [
+            10,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "24",
+        "number": 24,
+        "clue": "D'une façon précautionneuse.",
+        "answer": "PRECAUTIONNEUSEMENT",
+        "cells": [
+          [
+            11,
+            0
+          ],
+          [
+            11,
+            1
+          ],
+          [
+            11,
+            2
+          ],
+          [
+            11,
+            3
+          ],
+          [
+            11,
+            4
+          ],
+          [
+            11,
+            5
+          ],
+          [
+            11,
+            6
+          ],
+          [
+            11,
+            7
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            11,
+            13
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            11,
+            15
+          ],
+          [
+            11,
+            16
+          ],
+          [
+            11,
+            17
+          ],
+          [
+            11,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "25",
+        "number": 25,
+        "clue": "Definition indisponible",
+        "answer": "CNY",
+        "cells": [
+          [
+            12,
+            0
+          ],
+          [
+            12,
+            1
+          ],
+          [
+            12,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "26",
+        "number": 26,
+        "clue": "Variante de bi : travail fait en commun.",
+        "answer": "BEE",
+        "cells": [
+          [
+            12,
+            4
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "27",
+        "number": 27,
+        "clue": "Nom de famille.",
+        "answer": "CHASLES",
+        "cells": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            12,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "28",
+        "number": 28,
+        "clue": "Flamme des bougies",
+        "answer": "FEU",
+        "cells": [
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            17
+          ],
+          [
+            12,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "29",
+        "number": 29,
+        "clue": "État mental pathologique où l'individu présente une personnalité infantile : mimiques, postures, langage, goûts, etc.",
+        "answer": "PUERILISME",
+        "cells": [
+          [
+            13,
+            0
+          ],
+          [
+            13,
+            1
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            13,
+            3
+          ],
+          [
+            13,
+            4
+          ],
+          [
+            13,
+            5
+          ],
+          [
+            13,
+            6
+          ],
+          [
+            13,
+            7
+          ],
+          [
+            13,
+            8
+          ],
+          [
+            13,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "30",
+        "number": 30,
+        "clue": "Commune française, située dans le département de la Gironde.",
+        "answer": "ARCACHON",
+        "cells": [
+          [
+            13,
+            11
+          ],
+          [
+            13,
+            12
+          ],
+          [
+            13,
+            13
+          ],
+          [
+            13,
+            14
+          ],
+          [
+            13,
+            15
+          ],
+          [
+            13,
+            16
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            13,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "31",
+        "number": 31,
+        "clue": "Procéder ; venir ; dériver ; résulter.",
+        "answer": "PROVENIR",
+        "cells": [
+          [
+            14,
+            0
+          ],
+          [
+            14,
+            1
+          ],
+          [
+            14,
+            2
+          ],
+          [
+            14,
+            3
+          ],
+          [
+            14,
+            4
+          ],
+          [
+            14,
+            5
+          ],
+          [
+            14,
+            6
+          ],
+          [
+            14,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "32",
+        "number": 32,
+        "clue": "Symbole de « messagerie électronique en ligne » qui peut figurer devant l’adresse électronique sur un document (papier à lettres ou carte de visite, par exemple), tout comme « Tél. » devant le numéro de téléphone.",
+        "answer": "MEL",
+        "cells": [
+          [
+            14,
+            9
+          ],
+          [
+            14,
+            10
+          ],
+          [
+            14,
+            11
+          ]
+        ]
+      },
+      {
+        "id": "33",
+        "number": 33,
+        "clue": "Peindre des rides sur le visage, transformer le visage en le vieillissant.",
+        "answer": "GRIMER",
+        "cells": [
+          [
+            14,
+            13
+          ],
+          [
+            14,
+            14
+          ],
+          [
+            14,
+            15
+          ],
+          [
+            14,
+            16
+          ],
+          [
+            14,
+            17
+          ],
+          [
+            14,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "34",
+        "number": 34,
+        "clue": "Definition indisponible",
+        "answer": "SBOS",
+        "cells": [
+          [
+            15,
+            0
+          ],
+          [
+            15,
+            1
+          ],
+          [
+            15,
+            2
+          ],
+          [
+            15,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "35",
+        "number": 35,
+        "clue": "Petite créature du folklore et des croyances populaires des Ardennes françaises et de la Belgique, très proche du lutin.",
+        "answer": "NUTON",
+        "cells": [
+          [
+            15,
+            5
+          ],
+          [
+            15,
+            6
+          ],
+          [
+            15,
+            7
+          ],
+          [
+            15,
+            8
+          ],
+          [
+            15,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "36",
+        "number": 36,
+        "clue": "Qui est né après un de ses frères ou une de ses sœurs.",
+        "answer": "PUINE",
+        "cells": [
+          [
+            15,
+            11
+          ],
+          [
+            15,
+            12
+          ],
+          [
+            15,
+            13
+          ],
+          [
+            15,
+            14
+          ],
+          [
+            15,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "37",
+        "number": 37,
+        "clue": "Haute définition, qualité d’images améliorée, dont la définition est d’au moins 720p (1280 x 720 pixels).",
+        "answer": "HD",
+        "cells": [
+          [
+            15,
+            17
+          ],
+          [
+            15,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "38",
+        "number": 38,
+        "clue": "Definition indisponible",
+        "answer": "CEREBROVASCULAIRE",
+        "cells": [
+          [
+            16,
+            0
+          ],
+          [
+            16,
+            1
+          ],
+          [
+            16,
+            2
+          ],
+          [
+            16,
+            3
+          ],
+          [
+            16,
+            4
+          ],
+          [
+            16,
+            5
+          ],
+          [
+            16,
+            6
+          ],
+          [
+            16,
+            7
+          ],
+          [
+            16,
+            8
+          ],
+          [
+            16,
+            9
+          ],
+          [
+            16,
+            10
+          ],
+          [
+            16,
+            11
+          ],
+          [
+            16,
+            12
+          ],
+          [
+            16,
+            13
+          ],
+          [
+            16,
+            14
+          ],
+          [
+            16,
+            15
+          ],
+          [
+            16,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "39",
+        "number": 39,
+        "clue": "Personne appartenant au peuple li, une des 56 minorités ethniques de Chine.",
+        "answer": "LI",
+        "cells": [
+          [
+            16,
+            18
+          ],
+          [
+            16,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "40",
+        "number": 40,
+        "clue": "Machine à écrire électrique produite par la société IBM.",
+        "answer": "IBM",
+        "cells": [
+          [
+            17,
+            0
+          ],
+          [
+            17,
+            1
+          ],
+          [
+            17,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "41",
+        "number": 41,
+        "clue": "Membre d'une famille d’oiseaux passereaux, constituée d’oiseaux petits à moyens, au corps fin, à queue allongée et aux pattes aux ongles longs, les bergeronnettes, les pipits, et les sentinelles.",
+        "answer": "MOTACILLIDE",
+        "cells": [
+          [
+            17,
+            4
+          ],
+          [
+            17,
+            5
+          ],
+          [
+            17,
+            6
+          ],
+          [
+            17,
+            7
+          ],
+          [
+            17,
+            8
+          ],
+          [
+            17,
+            9
+          ],
+          [
+            17,
+            10
+          ],
+          [
+            17,
+            11
+          ],
+          [
+            17,
+            12
+          ],
+          [
+            17,
+            13
+          ],
+          [
+            17,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "42",
+        "number": 42,
+        "clue": "Definition indisponible",
+        "answer": "FEVO",
+        "cells": [
+          [
+            17,
+            16
+          ],
+          [
+            17,
+            17
+          ],
+          [
+            17,
+            18
+          ],
+          [
+            17,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "43",
+        "number": 43,
+        "clue": "Arme de trait servant à lancer des flèches, formée d’une branche de bois ou d’une verge, soit de métal, soit d’autre matière, courbée avec effort au moyen d’une corde qui s’attache aux deux extrémités.",
+        "answer": "ARC",
+        "cells": [
+          [
+            18,
+            0
+          ],
+          [
+            18,
+            1
+          ],
+          [
+            18,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "44",
+        "number": 44,
+        "clue": "Definition indisponible",
+        "answer": "CHOH",
+        "cells": [
+          [
+            18,
+            4
+          ],
+          [
+            18,
+            5
+          ],
+          [
+            18,
+            6
+          ],
+          [
+            18,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "45",
+        "number": 45,
+        "clue": "Synonyme de chêne des Pyrénées.",
+        "answer": "TAUZIN",
+        "cells": [
+          [
+            18,
+            9
+          ],
+          [
+            18,
+            10
+          ],
+          [
+            18,
+            11
+          ],
+          [
+            18,
+            12
+          ],
+          [
+            18,
+            13
+          ],
+          [
+            18,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "46",
+        "number": 46,
+        "clue": "Endroit où le sensei entraîne ses étudiants.",
+        "answer": "DOJO",
+        "cells": [
+          [
+            18,
+            16
+          ],
+          [
+            18,
+            17
+          ],
+          [
+            18,
+            18
+          ],
+          [
+            18,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "47",
+        "number": 47,
+        "clue": "Lieu où se retrouvent les proches d’une personne décédée avant ses obsèques.",
+        "answer": "FUNERARIUM",
+        "cells": [
+          [
+            19,
+            0
+          ],
+          [
+            19,
+            1
+          ],
+          [
+            19,
+            2
+          ],
+          [
+            19,
+            3
+          ],
+          [
+            19,
+            4
+          ],
+          [
+            19,
+            5
+          ],
+          [
+            19,
+            6
+          ],
+          [
+            19,
+            7
+          ],
+          [
+            19,
+            8
+          ],
+          [
+            19,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "48",
+        "number": 48,
+        "clue": "Cul.",
+        "answer": "CUCUL",
+        "cells": [
+          [
+            19,
+            11
+          ],
+          [
+            19,
+            12
+          ],
+          [
+            19,
+            13
+          ],
+          [
+            19,
+            14
+          ],
+          [
+            19,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "49",
+        "number": 49,
+        "clue": "Poids à vide d’un véhicule.",
+        "answer": "PV",
+        "cells": [
+          [
+            19,
+            17
+          ],
+          [
+            19,
+            18
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Definition indisponible",
+        "answer": "ASBSTRBNEACPCPPSCIAF",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            7,
+            0
+          ],
+          [
+            8,
+            0
+          ],
+          [
+            9,
+            0
+          ],
+          [
+            10,
+            0
+          ],
+          [
+            11,
+            0
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            13,
+            0
+          ],
+          [
+            14,
+            0
+          ],
+          [
+            15,
+            0
+          ],
+          [
+            16,
+            0
+          ],
+          [
+            17,
+            0
+          ],
+          [
+            18,
+            0
+          ],
+          [
+            19,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Definition indisponible",
+        "answer": "RYROREOOUSARNURBEBRU",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            8,
+            1
+          ],
+          [
+            9,
+            1
+          ],
+          [
+            10,
+            1
+          ],
+          [
+            11,
+            1
+          ],
+          [
+            12,
+            1
+          ],
+          [
+            13,
+            1
+          ],
+          [
+            14,
+            1
+          ],
+          [
+            15,
+            1
+          ],
+          [
+            16,
+            1
+          ],
+          [
+            17,
+            1
+          ],
+          [
+            18,
+            1
+          ],
+          [
+            19,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Definition indisponible",
+        "answer": "RMOUIPSNRTREYEOORMCN",
+        "cells": [
+          [
+            0,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            8,
+            2
+          ],
+          [
+            9,
+            2
+          ],
+          [
+            10,
+            2
+          ],
+          [
+            11,
+            2
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            13,
+            2
+          ],
+          [
+            14,
+            2
+          ],
+          [
+            15,
+            2
+          ],
+          [
+            16,
+            2
+          ],
+          [
+            17,
+            2
+          ],
+          [
+            18,
+            2
+          ],
+          [
+            19,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Definition indisponible",
+        "answer": "IPUSBOSCORDC",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            8,
+            3
+          ],
+          [
+            9,
+            3
+          ],
+          [
+            10,
+            3
+          ],
+          [
+            11,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Definition indisponible",
+        "answer": "EAIFARUOPOIABIE",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            7,
+            4
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            9,
+            4
+          ],
+          [
+            10,
+            4
+          ],
+          [
+            11,
+            4
+          ],
+          [
+            12,
+            4
+          ],
+          [
+            13,
+            4
+          ],
+          [
+            14,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Definition indisponible",
+        "answer": "RTLILT",
+        "cells": [
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ],
+          [
+            5,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Definition indisponible",
+        "answer": "EHLN",
+        "cells": [
+          [
+            0,
+            6
+          ],
+          [
+            1,
+            6
+          ],
+          [
+            2,
+            6
+          ],
+          [
+            3,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "08",
+        "number": 8,
+        "clue": "Definition indisponible",
+        "answer": "PIAAHREICMOI",
+        "cells": [
+          [
+            0,
+            7
+          ],
+          [
+            1,
+            7
+          ],
+          [
+            2,
+            7
+          ],
+          [
+            3,
+            7
+          ],
+          [
+            4,
+            7
+          ],
+          [
+            5,
+            7
+          ],
+          [
+            6,
+            7
+          ],
+          [
+            7,
+            7
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            9,
+            7
+          ],
+          [
+            10,
+            7
+          ],
+          [
+            11,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "09",
+        "number": 9,
+        "clue": "Definition indisponible",
+        "answer": "ECRNISALEIGOCM",
+        "cells": [
+          [
+            0,
+            8
+          ],
+          [
+            1,
+            8
+          ],
+          [
+            2,
+            8
+          ],
+          [
+            3,
+            8
+          ],
+          [
+            4,
+            8
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            6,
+            8
+          ],
+          [
+            7,
+            8
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            9,
+            8
+          ],
+          [
+            10,
+            8
+          ],
+          [
+            11,
+            8
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            13,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "10",
+        "number": 10,
+        "clue": "Definition indisponible",
+        "answer": "TODCMCNINQINHEMNSITM",
+        "cells": [
+          [
+            0,
+            9
+          ],
+          [
+            1,
+            9
+          ],
+          [
+            2,
+            9
+          ],
+          [
+            3,
+            9
+          ],
+          [
+            4,
+            9
+          ],
+          [
+            5,
+            9
+          ],
+          [
+            6,
+            9
+          ],
+          [
+            7,
+            9
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            9,
+            9
+          ],
+          [
+            10,
+            9
+          ],
+          [
+            11,
+            9
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            13,
+            9
+          ],
+          [
+            14,
+            9
+          ],
+          [
+            15,
+            9
+          ],
+          [
+            16,
+            9
+          ],
+          [
+            17,
+            9
+          ],
+          [
+            18,
+            9
+          ],
+          [
+            19,
+            9
+          ]
+        ]
+      },
+      {
+        "id": "11",
+        "number": 11,
+        "clue": "Definition indisponible",
+        "answer": "IMEEAACATUQNA",
+        "cells": [
+          [
+            0,
+            10
+          ],
+          [
+            1,
+            10
+          ],
+          [
+            2,
+            10
+          ],
+          [
+            3,
+            10
+          ],
+          [
+            4,
+            10
+          ],
+          [
+            5,
+            10
+          ],
+          [
+            6,
+            10
+          ],
+          [
+            7,
+            10
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            9,
+            10
+          ],
+          [
+            10,
+            10
+          ],
+          [
+            11,
+            10
+          ],
+          [
+            12,
+            10
+          ]
+        ]
+      },
+      {
+        "id": "12",
+        "number": 12,
+        "clue": "Definition indisponible",
+        "answer": "TIUMTMETREUESALPULUC",
+        "cells": [
+          [
+            0,
+            11
+          ],
+          [
+            1,
+            11
+          ],
+          [
+            2,
+            11
+          ],
+          [
+            3,
+            11
+          ],
+          [
+            4,
+            11
+          ],
+          [
+            5,
+            11
+          ],
+          [
+            6,
+            11
+          ],
+          [
+            7,
+            11
+          ],
+          [
+            8,
+            11
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            11
+          ],
+          [
+            11,
+            11
+          ],
+          [
+            12,
+            11
+          ],
+          [
+            13,
+            11
+          ],
+          [
+            14,
+            11
+          ],
+          [
+            15,
+            11
+          ],
+          [
+            16,
+            11
+          ],
+          [
+            17,
+            11
+          ],
+          [
+            18,
+            11
+          ],
+          [
+            19,
+            11
+          ]
+        ]
+      },
+      {
+        "id": "13",
+        "number": 13,
+        "clue": "Definition indisponible",
+        "answer": "EMXEIE",
+        "cells": [
+          [
+            0,
+            12
+          ],
+          [
+            1,
+            12
+          ],
+          [
+            2,
+            12
+          ],
+          [
+            3,
+            12
+          ],
+          [
+            4,
+            12
+          ],
+          [
+            5,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "14",
+        "number": 14,
+        "clue": "Pronom dans 'se reunir'",
+        "answer": "SE",
+        "cells": [
+          [
+            0,
+            13
+          ],
+          [
+            1,
+            13
+          ]
+        ]
+      },
+      {
+        "id": "15",
+        "number": 15,
+        "clue": "Definition indisponible",
+        "answer": "NTPTNAMNTAHESARNIENU",
+        "cells": [
+          [
+            0,
+            14
+          ],
+          [
+            1,
+            14
+          ],
+          [
+            2,
+            14
+          ],
+          [
+            3,
+            14
+          ],
+          [
+            4,
+            14
+          ],
+          [
+            5,
+            14
+          ],
+          [
+            6,
+            14
+          ],
+          [
+            7,
+            14
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            9,
+            14
+          ],
+          [
+            10,
+            14
+          ],
+          [
+            11,
+            14
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            13,
+            14
+          ],
+          [
+            14,
+            14
+          ],
+          [
+            15,
+            14
+          ],
+          [
+            16,
+            14
+          ],
+          [
+            17,
+            14
+          ],
+          [
+            18,
+            14
+          ],
+          [
+            19,
+            14
+          ]
+        ]
+      },
+      {
+        "id": "16",
+        "number": 16,
+        "clue": "Deuxième.",
+        "answer": "IIE",
+        "cells": [
+          [
+            0,
+            15
+          ],
+          [
+            1,
+            15
+          ],
+          [
+            2,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "17",
+        "number": 17,
+        "clue": "Definition indisponible",
+        "answer": "EQANCAAC",
+        "cells": [
+          [
+            0,
+            16
+          ],
+          [
+            1,
+            16
+          ],
+          [
+            2,
+            16
+          ],
+          [
+            3,
+            16
+          ],
+          [
+            4,
+            16
+          ],
+          [
+            5,
+            16
+          ],
+          [
+            6,
+            16
+          ],
+          [
+            7,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "18",
+        "number": 18,
+        "clue": "Definition indisponible",
+        "answer": "CUGAEN",
+        "cells": [
+          [
+            0,
+            17
+          ],
+          [
+            1,
+            17
+          ],
+          [
+            2,
+            17
+          ],
+          [
+            3,
+            17
+          ],
+          [
+            4,
+            17
+          ],
+          [
+            5,
+            17
+          ]
+        ]
+      },
+      {
+        "id": "19",
+        "number": 19,
+        "clue": "Definition indisponible",
+        "answer": "EEEGFSMSIULTUNRDLVJV",
+        "cells": [
+          [
+            0,
+            18
+          ],
+          [
+            1,
+            18
+          ],
+          [
+            2,
+            18
+          ],
+          [
+            3,
+            18
+          ],
+          [
+            4,
+            18
+          ],
+          [
+            5,
+            18
+          ],
+          [
+            6,
+            18
+          ],
+          [
+            7,
+            18
+          ],
+          [
+            8,
+            18
+          ],
+          [
+            9,
+            18
+          ],
+          [
+            10,
+            18
+          ],
+          [
+            11,
+            18
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            13,
+            18
+          ],
+          [
+            14,
+            18
+          ],
+          [
+            15,
+            18
+          ],
+          [
+            16,
+            18
+          ],
+          [
+            17,
+            18
+          ],
+          [
+            18,
+            18
+          ],
+          [
+            19,
+            18
+          ]
+        ]
+      },
+      {
+        "id": "20",
+        "number": 20,
+        "clue": "Commune française, située dans le département de la Seine-Maritime.",
+        "answer": "RY",
+        "cells": [
+          [
+            2,
+            19
+          ],
+          [
+            3,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "21",
+        "number": 21,
+        "clue": "Definition indisponible",
+        "answer": "NOREOSK",
+        "cells": [
+          [
+            3,
+            13
+          ],
+          [
+            4,
+            13
+          ],
+          [
+            5,
+            13
+          ],
+          [
+            6,
+            13
+          ],
+          [
+            7,
+            13
+          ],
+          [
+            8,
+            13
+          ],
+          [
+            9,
+            13
+          ]
+        ]
+      },
+      {
+        "id": "22",
+        "number": 22,
+        "clue": "Definition indisponible",
+        "answer": "ESCOOLTEIIUOTOR",
+        "cells": [
+          [
+            5,
+            6
+          ],
+          [
+            6,
+            6
+          ],
+          [
+            7,
+            6
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            9,
+            6
+          ],
+          [
+            10,
+            6
+          ],
+          [
+            11,
+            6
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            13,
+            6
+          ],
+          [
+            14,
+            6
+          ],
+          [
+            15,
+            6
+          ],
+          [
+            16,
+            6
+          ],
+          [
+            17,
+            6
+          ],
+          [
+            18,
+            6
+          ],
+          [
+            19,
+            6
+          ]
+        ]
+      },
+      {
+        "id": "23",
+        "number": 23,
+        "clue": "Symbole du millimètre, unité de mesure de longueur du Système international (SI), valant 0,001 mètre (10⁻³ mètre).",
+        "answer": "MM",
+        "cells": [
+          [
+            5,
+            15
+          ],
+          [
+            6,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "24",
+        "number": 24,
+        "clue": "Definition indisponible",
+        "answer": "XODC",
+        "cells": [
+          [
+            6,
+            19
+          ],
+          [
+            7,
+            19
+          ],
+          [
+            8,
+            19
+          ],
+          [
+            9,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "25",
+        "number": 25,
+        "clue": "Definition indisponible",
+        "answer": "NENOUELNNROHA",
+        "cells": [
+          [
+            7,
+            5
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            9,
+            5
+          ],
+          [
+            10,
+            5
+          ],
+          [
+            11,
+            5
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            13,
+            5
+          ],
+          [
+            14,
+            5
+          ],
+          [
+            15,
+            5
+          ],
+          [
+            16,
+            5
+          ],
+          [
+            17,
+            5
+          ],
+          [
+            18,
+            5
+          ],
+          [
+            19,
+            5
+          ]
+        ]
+      },
+      {
+        "id": "26",
+        "number": 26,
+        "clue": "Échelle correspondant au rapport 1:28,25 dans les pays anglophones et 1:22,5 ailleurs.",
+        "answer": "II",
+        "cells": [
+          [
+            7,
+            12
+          ],
+          [
+            8,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "27",
+        "number": 27,
+        "clue": "Pronom dans 'on chante'",
+        "answer": "ON",
+        "cells": [
+          [
+            7,
+            17
+          ],
+          [
+            8,
+            17
+          ]
+        ]
+      },
+      {
+        "id": "28",
+        "number": 28,
+        "clue": "Definition indisponible",
+        "answer": "ERAM",
+        "cells": [
+          [
+            8,
+            15
+          ],
+          [
+            9,
+            15
+          ],
+          [
+            10,
+            15
+          ],
+          [
+            11,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "29",
+        "number": 29,
+        "clue": "Definition indisponible",
+        "answer": "LLEFHM",
+        "cells": [
+          [
+            9,
+            16
+          ],
+          [
+            10,
+            16
+          ],
+          [
+            11,
+            16
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            13,
+            16
+          ],
+          [
+            14,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "30",
+        "number": 30,
+        "clue": "Definition indisponible",
+        "answer": "EULR",
+        "cells": [
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            12
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            13,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "31",
+        "number": 31,
+        "clue": "Definition indisponible",
+        "answer": "ANEOEH",
+        "cells": [
+          [
+            10,
+            17
+          ],
+          [
+            11,
+            17
+          ],
+          [
+            12,
+            17
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            14,
+            17
+          ],
+          [
+            15,
+            17
+          ]
+        ]
+      },
+      {
+        "id": "32",
+        "number": 32,
+        "clue": "Definition indisponible",
+        "answer": "SECGIADIC",
+        "cells": [
+          [
+            11,
+            13
+          ],
+          [
+            12,
+            13
+          ],
+          [
+            13,
+            13
+          ],
+          [
+            14,
+            13
+          ],
+          [
+            15,
+            13
+          ],
+          [
+            16,
+            13
+          ],
+          [
+            17,
+            13
+          ],
+          [
+            18,
+            13
+          ],
+          [
+            19,
+            13
+          ]
+        ]
+      },
+      {
+        "id": "33",
+        "number": 33,
+        "clue": "Definition indisponible",
+        "answer": "RVSE",
+        "cells": [
+          [
+            13,
+            3
+          ],
+          [
+            14,
+            3
+          ],
+          [
+            15,
+            3
+          ],
+          [
+            16,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "34",
+        "number": 34,
+        "clue": "Definition indisponible",
+        "answer": "SRTVAHI",
+        "cells": [
+          [
+            13,
+            7
+          ],
+          [
+            14,
+            7
+          ],
+          [
+            15,
+            7
+          ],
+          [
+            16,
+            7
+          ],
+          [
+            17,
+            7
+          ],
+          [
+            18,
+            7
+          ],
+          [
+            19,
+            7
+          ]
+        ]
+      },
+      {
+        "id": "35",
+        "number": 35,
+        "clue": "Affluent du Gers, coulant dans les Hautes-Pyrénées.",
+        "answer": "CIER",
+        "cells": [
+          [
+            13,
+            15
+          ],
+          [
+            14,
+            15
+          ],
+          [
+            15,
+            15
+          ],
+          [
+            16,
+            15
+          ]
+        ]
+      },
+      {
+        "id": "36",
+        "number": 36,
+        "clue": "Definition indisponible",
+        "answer": "OAC",
+        "cells": [
+          [
+            15,
+            8
+          ],
+          [
+            16,
+            8
+          ],
+          [
+            17,
+            8
+          ]
+        ]
+      },
+      {
+        "id": "37",
+        "number": 37,
+        "clue": "Definition indisponible",
+        "answer": "ULIZU",
+        "cells": [
+          [
+            15,
+            12
+          ],
+          [
+            16,
+            12
+          ],
+          [
+            17,
+            12
+          ],
+          [
+            18,
+            12
+          ],
+          [
+            19,
+            12
+          ]
+        ]
+      },
+      {
+        "id": "38",
+        "number": 38,
+        "clue": "Definition indisponible",
+        "answer": "BMCR",
+        "cells": [
+          [
+            16,
+            4
+          ],
+          [
+            17,
+            4
+          ],
+          [
+            18,
+            4
+          ],
+          [
+            19,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "39",
+        "number": 39,
+        "clue": "Cela.",
+        "answer": "CLA",
+        "cells": [
+          [
+            16,
+            10
+          ],
+          [
+            17,
+            10
+          ],
+          [
+            18,
+            10
+          ]
+        ]
+      },
+      {
+        "id": "40",
+        "number": 40,
+        "clue": "Definition indisponible",
+        "answer": "EFD",
+        "cells": [
+          [
+            16,
+            16
+          ],
+          [
+            17,
+            16
+          ],
+          [
+            18,
+            16
+          ]
+        ]
+      },
+      {
+        "id": "41",
+        "number": 41,
+        "clue": "Definition indisponible",
+        "answer": "IOO",
+        "cells": [
+          [
+            16,
+            19
+          ],
+          [
+            17,
+            19
+          ],
+          [
+            18,
+            19
+          ]
+        ]
+      },
+      {
+        "id": "42",
+        "number": 42,
+        "clue": "Definition indisponible",
+        "answer": "EOP",
+        "cells": [
+          [
+            17,
+            17
+          ],
+          [
+            18,
+            17
+          ],
+          [
+            19,
+            17
+          ]
+        ]
+      }
+    ]
+  }
+}

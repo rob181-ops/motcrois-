@@ -1,0 +1,303 @@
+{
+  "id": "005",
+  "size": 5,
+  "difficulty": "moyen",
+  "source": {
+    "result_db": "motcroise-005.result.sqlite",
+    "defs_db": "definitions.fr.sqlite",
+    "generated_utc": "2026-01-29T21:43:53.191107Z"
+  },
+  "grid": [
+    "WF#KA",
+    "CHBEB",
+    "##CRA",
+    "DJERV",
+    "VO#YI"
+  ],
+  "clues": {
+    "across": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Père de l’épouse. On est pour son WF un DH.",
+        "answer": "WF",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Autre appellation du kaon.",
+        "answer": "KA",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            0,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Homosexuel passif.",
+        "answer": "CHBEB",
+        "cells": [
+          [
+            1,
+            0
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "très",
+        "answer": "CRA",
+        "cells": [
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Douzième lettre de l’alphabet glagolitique, Ⰼ.",
+        "answer": "DJERV",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Langue môn-khmer parlée en Chine et en Birmanie, par les Wa.",
+        "answer": "VO",
+        "cells": [
+          [
+            4,
+            0
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "Langue parlée au Sichuan en Chine par les Yis.",
+        "answer": "YI",
+        "cells": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      }
+    ],
+    "down": [
+      {
+        "id": "01",
+        "number": 1,
+        "clue": "Toilettes; petit espace clos utilisé pour se soulager de toutes les déjections corporelles.",
+        "answer": "WC",
+        "cells": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "02",
+        "number": 2,
+        "clue": "Symbole du degré hydrotimétrique en degré français (symbole °f ou °fH) (à ne pas confondre avec le symbole °F, degré Fahrenheit). Un degré français correspond à 10-4 mol/L, soit 4 milligrammes de calcium ou 2,4 milligrammes de magnésium par litre d’eau.",
+        "answer": "FH",
+        "cells": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      {
+        "id": "03",
+        "number": 3,
+        "clue": "Race laitière de petits taurins originaires d’Irlande, à robe noire.",
+        "answer": "KERRY",
+        "cells": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      {
+        "id": "04",
+        "number": 4,
+        "clue": "Baobab.",
+        "answer": "ABAVI",
+        "cells": [
+          [
+            0,
+            4
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "id": "05",
+        "number": 5,
+        "clue": "Banque centrale européenne.",
+        "answer": "BCE",
+        "cells": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      {
+        "id": "06",
+        "number": 6,
+        "clue": "Déficient visuel, déficiente visuelle (personne qui voit mal).",
+        "answer": "DV",
+        "cells": [
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ]
+        ]
+      },
+      {
+        "id": "07",
+        "number": 7,
+        "clue": "(Nivernais) Coq.",
+        "answer": "JO",
+        "cells": [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      }
+    ]
+  }
+}

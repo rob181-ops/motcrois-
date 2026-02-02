@@ -1,0 +1,37 @@
+{
+  "name": "motcroise-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "sync-grids": "node ./scripts/sync-grids.mjs",
+    "cap:sync": "npm run build && npx cap sync android",
+    "android:open": "npx cap open android",
+    "postinstall": "node ./scripts/fix-android-proguard.mjs"
+  },
+  "dependencies": {
+    "@capacitor-community/admob": "^8.0.0",
+    "@capacitor/android": "^8.0.2",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/cli": "^8.0.2",
+    "@capacitor/core": "^8.0.2",
+    "@capacitor/device": "^8.0.0",
+    "@capacitor/preferences": "^8.0.0",
+    "@capacitor/splash-screen": "^8.0.0",
+    "@capacitor/status-bar": "^8.0.0",
+    "@fontsource-variable/manrope": "^5.2.5",
+    "@mdi/font": "^7.4.47",
+    "@revenuecat/purchases-capacitor": "^12.1.0",
+    "vue": "^3.4.15",
+    "vuetify": "^3.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "patch-package": "^8.0.1",
+    "vite": "^5.0.12",
+    "vite-plugin-vuetify": "^2.0.3"
+  }
+}
